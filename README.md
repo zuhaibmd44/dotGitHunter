@@ -1,0 +1,4 @@
+# dotGitHunter
+This script is used to identify open .git directory for a list of subdomains
+
+If you want to hunt manually then you can use the following dork intext:"Index of /.git"
